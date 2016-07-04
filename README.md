@@ -1,3 +1,5 @@
+# Tiny lightweight logging library
+
 # snLog
 
 [![CI Status](http://img.shields.io/travis/Marc Fiedler/snLog.svg?style=flat)](https://travis-ci.org/Marc Fiedler/snLog)
