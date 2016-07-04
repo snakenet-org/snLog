@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'snLog_Example' do
+  pod 'snLog', :path => '../'
+
+  target 'snLog_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+  pod 'Expecta'
+  end
+end
