@@ -29,7 +29,7 @@ Lightweight and quickly scaleable logging for iOS Apps during Debug phase. Just 
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Marc Fiedler' => 'marc@snakenet.org' }
   s.source           = { :git => 'https://github.com/snakeNet-org/snLog.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.social_media_url = 'https://twitter.com/snakenet_org'
 
   s.ios.deployment_target = '8.0'
 
