@@ -2,7 +2,6 @@ Tiny lightweight logging library
 
 # snLog
 
-[![CI Status](http://img.shields.io/travis/Marc Fiedler/snLog.svg?style=flat)](https://travis-ci.org/Marc Fiedler/snLog)
 [![Version](https://img.shields.io/cocoapods/v/snLog.svg?style=flat)](http://cocoapods.org/pods/snLog)
 [![License](https://img.shields.io/cocoapods/l/snLog.svg?style=flat)](http://cocoapods.org/pods/snLog)
 [![Platform](https://img.shields.io/cocoapods/p/snLog.svg?style=flat)](http://cocoapods.org/pods/snLog)
