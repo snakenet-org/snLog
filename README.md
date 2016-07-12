@@ -1,4 +1,4 @@
-Tiny lightweight logging library
+Tiny lightweight LogCat-like logging library
 
 # snLog
 
